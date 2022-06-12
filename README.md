@@ -10,4 +10,7 @@ The school needs you to build the application that the students and teachers wil
 
 
 <img width="1284" alt="2022-06-12" src="https://user-images.githubusercontent.com/90927148/173252489-9d45dc73-5df0-4fd3-8e19-19135d6ebec0.png">
-<img width="1284" alt="2022-06-12" src="https://user-images.githubusercontent.com/90927148/173252600-df5df2e6-f70a-4575-b92f-c72d06384132.png">
+![Screenshot (43)](https://user-images.githubusercontent.com/90927148/173252710-2d2bf0b0-f892-4aa3-ae39-a5ea9d42564d.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/90927148/173252734-c32db4dd-8fa6-4d99-be2b-383aba48ac86.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/90927148/173252740-6e48a23e-a19e-4838-b69c-6f79cb2e37ae.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/90927148/173252747-8d82fcf4-5f6a-4622-9127-b38289c1fb7b.png)
